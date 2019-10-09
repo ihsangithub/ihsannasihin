@@ -1,0 +1,19 @@
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\bin\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).exe.config
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\bin\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).exe
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\bin\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).pdb
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\bin\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).xml
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.Resources.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.Data_Barang.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.form_awal.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.form_pengembalian.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.form_penyewaan.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.hapus_barang.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.login_admin.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.menu_utama.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.tambah_barang.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.update_barang.resources
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).vbproj.GenerateResource.Cache
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).exe
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).xml
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan Nasihin UAS Project (Rental Outdoor).pdb
+E:\pelatihan pundamental\Ihsan Nasihin UAS Project (Rental Outdoor)\Ihsan Nasihin UAS Project (Rental Outdoor)\obj\Debug\Ihsan_Nasihin_UAS_Project__Rental_Outdoor_.Data_Penyewa.resources
